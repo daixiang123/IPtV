@@ -62,12 +62,15 @@ CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000
 
 
 卫视频道,#genre#
-凤凰中文,http://kxrj.site:998/123/fh.php?id=fhzw
-凤凰资讯,http://kxrj.site:998/123/fh.php?id=fhzx
-凤凰香港,http://kxrj.site:998/123/fh.php?id=fhhk
+
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+
+凤凰中文,http://kxrj.site:998/123/fh.php?id=fhzw
+凤凰资讯,http://kxrj.site:998/123/fh.php?id=fhzx
+凤凰香港,http://kxrj.site:998/123/fh.php?id=fhhk
+
 北京卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
 东方卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000518
 安徽卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000514
