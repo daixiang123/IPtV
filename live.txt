@@ -413,7 +413,7 @@ CCTV17  ,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 
 ##
 港  澳  台,#genre#
-
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://103.112.191.9:880/LAOSAT1015.m3u8
@@ -425,7 +425,7 @@ CCTV17  ,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 
 
 
-
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,https://17186.eu.org/php/putv/fhzx.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
